@@ -1,0 +1,521 @@
+Season Number,Startup Name,Episode Number,Pitch Number,Season Start,Season End,Original Air Date,Industry,Business Description,Company Website,Entrepreneur Names,Original Ask Amount,Original Offered Equity,Valuation Requested,Got Deal,Total Deal Amount,Total Deal Equity,Deal Valuation,Loan,Deal Has Conditions,Number of Sharks in Deal,Investment Amount Per Shark,Equity Per Shark,Mentoring,Invested Shark Names
+1,Gourmetzinho,1,1,10-Oct-2016,26-Jan-2017,10-Oct-2016,Food and Beverage,"Healthy, frozen baby food/meals for children",,,500000,20,2500000,0,,,,,,,,,,
+1,RevoFoot,1,2,10-Oct-2016,26-Jan-2017,10-Oct-2016,Health/Wellness,"Prosthetic feet, aiming for a lighter, more durable, and accessible product using innovative materials",,,400000,20,2000000,0,,,,,,,,,,
+1,Velo,1,3,10-Oct-2016,26-Jan-2017,10-Oct-2016,Children/Education,"Bicycle parts, electric bikes and scooters",,,400000,20,2000000,0,,,,,,,,,,
+1,BostaEmLata,1,4,10-Oct-2016,26-Jan-2017,10-Oct-2016,Business Services,"Organic fertilizer, product for urban gardeners",,,150000,30,500000,0,,,,,,,,,,
+1,M'AnaManutenção,2,5,10-Oct-2016,26-Jan-2017,17-Oct-2016,Technology/Software,platform/app for hiring female-led maintenance and repair services,,,100000,10,1000000,0,,,,,,,,,,
+1,PensysTecnologia,2,6,10-Oct-2016,26-Jan-2017,17-Oct-2016,Business Services,business management or industrial automation space,,,300000,5,6000000,0,,,,,,,,,,
+1,EasyCarros,2,7,10-Oct-2016,26-Jan-2017,17-Oct-2016,Technology/Software,app/platform offering on-demand car care services,,,800000,4,20000000,1,300000,10.0,3000000,,,2,150000,5,"João Appolinário, Camila Farani","João Appolinário, Camila Farani"
+1,PeterPaivaSaboaria,2,8,10-Oct-2016,26-Jan-2017,17-Oct-2016,Business Services,production and sale of artisanal soaps and soap-making products/materials,,,500000,20,2500000,0,,,,,,,,,,
+1,Futuriste,3,9,10-Oct-2016,26-Jan-2017,24-Oct-2016,Technology/Software,"drone technology, offering courses and services",,,185000,15,1233333,0,,,,,,,,,,
+1,Enlite,3,10,10-Oct-2016,26-Jan-2017,24-Oct-2016,Beauty/Fashion,hairdryer to automatically turn it off,,,295000,5,5900000,0,,,,,,,,,,
+1,+55Canga,3,11,10-Oct-2016,26-Jan-2017,24-Oct-2016,Fitness/Sports/Outdoors,"stylish, high-quality, and exclusive beach sarongs canga",,,500000,10,5000000,1,100000,25.0,400000,,,1,100000,25,,João Appolinário
+1,SuperCooler,3,12,10-Oct-2016,26-Jan-2017,24-Oct-2016,Food and Beverage,portable beverage cooler/chiller,,,500000,15,3333333,1,200000,30.0,666667,,,2,100000,15,,"João Appolinário, Luiz Seabra"
+1,Egosss,4,13,10-Oct-2016,26-Jan-2017,31-Oct-2016,Beauty/Fashion,"menswear brand motorcycle helmet with integrated Bluetooth, speakers, microphone",,,250000,15,1666667,1,200000,25.0,800000,,,1,200000,25,,Rodrigo Loures
+1,ManicuraExpress,4,14,10-Oct-2016,26-Jan-2017,31-Oct-2016,Beauty/Fashion,network for express manicure services,,,50000,7,714286,1,150000,40.0,375000,,,1,150000,40,,Cristiana Arcangeli
+1,RockCandy,4,15,10-Oct-2016,26-Jan-2017,31-Oct-2016,Food and Beverage,"artisan lollipops with creative, complex designs",,,900000,15,6000000,0,,,,,,,,,,
+1,Dolce&Cane,4,16,10-Oct-2016,26-Jan-2017,31-Oct-2016,Pet Products,"products for pets, likely treats or fashion accessories",,,100000,30,333333,1,150000,30.0,500000,,,1,150000,30,,Cristiana Arcangeli
+1,NextAgro,4,17,10-Oct-2016,26-Jan-2017,31-Oct-2016,Business Services,"control, monitoring, and intelligence for the agribusiness sector.",,,300000,5,6000000,1,200000,25.0,800000,,,1,200000,25,,João Appolinário
+1,Embarcar,5,18,10-Oct-2016,26-Jan-2017,7-Nov-2016,Business Services,"logistics or travel/transportation, possibly an automated delivery box/locker system for condos",,,90000,10,900000,0,,,,,,,,,,
+1,RentABag,5,19,10-Oct-2016,26-Jan-2017,7-Nov-2016,Business Services,franchise for renting high-quality luggage/suitcases,,,350000,7,5000000,1,150000,35.0,428571,,,1,150000,35,,Camila Farani
+1,BendittaPipoca,5,20,10-Oct-2016,26-Jan-2017,7-Nov-2016,Food and Beverage,Gourmet popcorn brand,,,400000,10,4000000,1,100000,40.0,250000,,,1,100000,40,,Luiz Seabra
+1,BelezaDeFarmácia,5,21,10-Oct-2016,26-Jan-2017,7-Nov-2016,Beauty/Fashion,beauty products or services within pharmacies,,,150000,15,1000000,0,,,,,,,,,,
+1,VelaBikes,6,22,10-Oct-2016,26-Jan-2017,14-Nov-2016,Automotive/Vehicles,"high-quality, designer electric bicycles",,,20000000,5,400000000,1,300000,25.0,1200000,,,2,150000,12.5,,"João Appolinário, Rodrigo Loures"
+1,YouTape,6,23,10-Oct-2016,26-Jan-2017,14-Nov-2016,Lifestyle/Home,adhesive tape designed for athletes to securely fasten accessories,,,50000,20,250000,1,150000,40.0,375000,,,1,150000,40,,Cristiana Arcangeli
+1,LilyCone,6,24,10-Oct-2016,26-Jan-2017,14-Nov-2016,Food and Beverage,"edible, flavored ice cream cone designed to enhance the dessert experience",,,400000,30,1333333,1,150000,40.0,375000,,,1,150000,40,,Cristiana Arcangeli
+1,QGFoodTruck,6,25,10-Oct-2016,26-Jan-2017,14-Nov-2016,Business Services,virtual food truck park or hub where multiple food trucks could operate,,,180000,40,450000,1,300000,33.3,900901,,,5,60000,6.66,,"João Appolinário, Luiz Seabra, Cristiana Arcangeli, Rodrigo Loures,Camila Farani"
+1,Portex,7,26,10-Oct-2016,26-Jan-2017,21-Nov-2016,Beauty/Fashion,"functional and stylish accessories for motorcycles,",,,250000,8,3125000,0,,,,,,,,,,
+1,KitLivre,7,27,10-Oct-2016,26-Jan-2017,21-Nov-2016,Automotive/Vehicles,kit to convert regular bicycles into electric bikes,,,400000,5,8000000,0,,,,,,,,,,
+1,TressCabelos,7,28,10-Oct-2016,26-Jan-2017,21-Nov-2016,Beauty/Fashion,hair extension and wig brand,,,1000000,5,20000000,0,,,,,,,,,,
+1,ListIt,7,29,10-Oct-2016,26-Jan-2017,21-Nov-2016,Children/Education,School supplies platform,,,200000,30,666667,0,,,,,,,,,Cristiana Arcangeli,
+1,Vent7,8,30,10-Oct-2016,26-Jan-2017,28-Nov-2016,Beauty/Fashion,"functional, fashionable t-shirts with integrated ventilation technology",,,200000,10,2000000,0,,,,,,,,,,
+1,JardimÔFiô,8,31,10-Oct-2016,26-Jan-2017,28-Nov-2016,Business Services,ready-to-grow mini-gardens in a box,,,200000,10,2000000,0,,,,,,,,,,
+1,PeauMature,8,32,10-Oct-2016,26-Jan-2017,28-Nov-2016,Beauty/Fashion,cosmetic products specifically formulated for mature skin,,,300000,10,3000000,0,,,,,,,,,,
+1,G2std,8,33,10-Oct-2016,26-Jan-2017,28-Nov-2016,Technology/Software,social network or platform focused on the agricultural sector,,,590000,8,7375000,0,,,,,,,,,,
+1,SafetyPrintSystem,8,34,10-Oct-2016,26-Jan-2017,28-Nov-2016,Technology/Software,security technology to prevent document forgery,,,1500000,10,15000000,0,,,,,,,,,,
+1,GetCook,9,35,10-Oct-2016,26-Jan-2017,5-Dec-2016,Food and Beverage,"service related to cooking, potentially a meal kit service",,,200000,10,2000000,1,200000,30.0,666667,,,2,100000,15,,"João Appolinário, Cristiana Arcangeli"
+1,CaldoNatural,9,36,10-Oct-2016,26-Jan-2017,5-Dec-2016,Lifestyle/Home,"natural, frozen culinary base broths/stocks",,,400000,15,2666667,1,150000,40.0,375000,,,1,150000,40,,Cristiana Arcangeli
+1,GoleiroDeAluguel,9,37,10-Oct-2016,26-Jan-2017,5-Dec-2016,Fitness/Sports/Outdoors,mobile app/platform for hiring amateur goalkeepers,,,250000,25,1000000,1,100000,30.0,333333,,,1,100000,30,,João Appolinário
+1,KartFly,9,38,10-Oct-2016,26-Jan-2017,5-Dec-2016,Business Services,"high-performance, competitive racing karts",,,600000,7.5,8000000,1,200000,25.0,800000,,,1,200000,25,,Rodrigo Loures
+1,Kuba,10,39,10-Oct-2016,26-Jan-2017,12-Dec-2016,Technology/Software,designs and sells headphones and earphones,,,190000,10,1900000,1,300000,25.0,1200000,,,1,300000.00,25.00,,Camila Farani
+1,iMedical,10,40,10-Oct-2016,26-Jan-2017,12-Dec-2016,Health/Wellness,telemedicine platform allowing patients to have video consultations with doctors,,,450000,30,1500000,1,500000,20.0,2500000,,,5,100000,4,,"João Appolinário, Luiz Seabra, Cristiana Arcangeli, Rodrigo Loures,Camila Farani"
+1,ChefBob,10,41,10-Oct-2016,26-Jan-2017,12-Dec-2016,Technology/Software,robotic fast-food machine that prepares meals automatically,,,150000,20,750000,1,500000,40.0,1250000,,,1,500000,40,,Luiz Seabra
+1,Courrieros,10,42,10-Oct-2016,26-Jan-2017,12-Dec-2016,Technology/Software,digitalize and formalize delivery services,,,400000,5,8000000,1,200000,30.0,666667,,,1,200000,30,,João Appolinário
+1,Bodout,11,43,10-Oct-2016,26-Jan-2017,19-Dec-2016,Lifestyle/Home,treatment applied to clothing to combat odor and bacteria growth,,,200000,15,1333333,0,,,,,,,,,,
+1,FolhaDaBananeira,11,44,10-Oct-2016,26-Jan-2017,19-Dec-2016,Green/CleanTech,"eco-friendly products, primarily using banana leaf fibers",,,200000,20,1000000,0,,,,,,,,,,
+1,Preshh,11,45,10-Oct-2016,26-Jan-2017,19-Dec-2016,Beauty/Fashion,"natural, solid-format personal care products",,,175000,20,875000,0,,,,,,,,,,
+1,Tagine,11,46,10-Oct-2016,26-Jan-2017,19-Dec-2016,Food and Beverage,food truck loan ,,,250000,30,833333,0,,,,,,,,,,
+1,Naked,12,47,10-Oct-2016,26-Jan-2017,26-Dec-2016,Beauty/Fashion,"natural, allergen-free cosmetics",,,300000,10,3000000,0,,,,,,,,,,
+1,EmpórioSartori,12,48,10-Oct-2016,26-Jan-2017,26-Dec-2016,Food and Beverage,"premium, artisanal pasta and Italian food products",,,500000,10,5000000,1,200000,25.0,800000,,,1,200000,25,,João Appolinário
+1,ArmadilhaSeletivaParaTubarões,12,49,10-Oct-2016,26-Jan-2017,26-Dec-2016,Food and Beverage,"fishing trap designed to catch only specific, overpopulated fish species",,,300000,10,3000000,1,150000,30.0,500000,,,1,150000,30,,Cristiana Arcangeli
+1,Horvath,12,50,10-Oct-2016,26-Jan-2017,26-Dec-2016,Business Services,textile nanotechnlogy,,,300000,8,3750000,0,,,,,,,,,,
+1,Cartooneria,13,51,10-Oct-2016,26-Jan-2017,2-Jan-2017,Lifestyle/Home,service in creating custom caricatures and cartoon art,,,300000,20,1500000,0,,,,,,,,,,
+1,FreeCô,13,52,10-Oct-2016,26-Jan-2017,2-Jan-2017,Lifestyle/Home,toilet odor blocker,,,150000,10,1500000,1,150000,30.0,500000,,,1,150000.00,30.00,,Camila Farani
+1,Oamorésimples,13,53,10-Oct-2016,26-Jan-2017,2-Jan-2017,Beauty/Fashion,"natural, solid-form perfumes",,,200000,10,2000000,1,150000,35.0,428571,,,1,150000,35,,Cristiana Arcangeli
+1,Noocity,13,54,10-Oct-2016,26-Jan-2017,2-Jan-2017,Business Services,urban farming and sustainable hydroponic garden solutions,,,350000,10,3500000,1,200000,25.0,800000,,,1,200000,25,,João Appolinário
+1,NaturalScience,14,55,10-Oct-2016,26-Jan-2017,9-Jan-2017,Beauty/Fashion,natural cosmetic products based on scientific formulations,,,400000,20,2000000,0,,,,,,,,,,
+1,PetiteBox,14,56,10-Oct-2016,26-Jan-2017,9-Jan-2017,Children/Education,"subscription box service, likely aimed at babies/mothers",,,600000,5,12000000,0,,,,,,,,,,
+1,Piipee,14,57,10-Oct-2016,26-Jan-2017,9-Jan-2017,Lifestyle/Home,eliminates the odor of urine in the toilet,,,500000,10,5000000,1,500000,20.0,2500000,,,1,500000,20,,Luiz Seabra
+1,FeitosaGourmet,14,58,10-Oct-2016,26-Jan-2017,9-Jan-2017,Food and Beverage,unique condiments,,,120000,25,480000,0,,,,,,,,,Carlos Wizard Martins,
+1,Ray'sPedals,15,59,10-Oct-2016,26-Jan-2017,16-Jan-2017,Beauty/Fashion,"custom, handcrafted pedal board for musicians",,,500000,15,3333333,0,,,,,,,,,,
+1,CadeirinhaSmart,15,60,10-Oct-2016,26-Jan-2017,16-Jan-2017,Technology/Software,smart car seat system,,,50000,10,500000,0,,,,,,,,,,
+1,TarteFit,15,61,10-Oct-2016,26-Jan-2017,16-Jan-2017,Food and Beverage,"healthy, fit-friendly tarts and pies",,,100000,10,1000000,0,,,,,,,,,,
+1,Safari,15,62,10-Oct-2016,26-Jan-2017,16-Jan-2017,Fitness/Sports/Outdoors,service for booking outdoor adventures and ecotourism trips,,,480000,20,2400000,0,,,,,,,,,,
+1,BanhoBungee,16,63,10-Oct-2016,26-Jan-2017,26-Jan-2017,Fitness/Sports/Outdoors,extreme tourism attraction bungee jump,,,100000,40,250000,0,,,,,,,,,,
+1,TripleHorn,16,64,10-Oct-2016,26-Jan-2017,26-Jan-2017,Liquor/Alcohol,craft brewery,,,490000,25,1960000,0,,,,,,,,,,
+1,Spin'nSoul,16,65,10-Oct-2016,26-Jan-2017,26-Jan-2017,Technology/Software,stationary exercise bike with an integrated online platform for classes,,,7500000,30,25000000,0,,,,,,,,,,
+1,Moradigna,16,66,10-Oct-2016,26-Jan-2017,26-Jan-2017,Lifestyle/Home,"business that provides fast, low-cost home renovations",,,300000,10,3000000,1,200000,15.0,1333333,yes,,5,40000,3,,"João Appolinário, Cristiana Arcangeli, Robinson Shiba, Sorocaba, Camila Farani"
+2,OPedido,1,67,22-Jun-2017,14-Sep-2017,22-Jun-2017,Food and Beverage,digital platform for bars and restaurants,,,300000,20,1500000,1,300000,15,2000000,,,1,300000,15,,João Appolinário
+2,Cartone,1,68,22-Jun-2017,14-Sep-2017,22-Jun-2017,Lifestyle/Home,"Furniture, houses, and blocks/toys made from recycled cardboard",,,300000,20,1500000,1,200000,20,1000000,,,1,200000,20,,Camila Farani
+2,AlfaLook's,1,69,22-Jun-2017,14-Sep-2017,22-Jun-2017,Beauty/Fashion,Products and cosmetics for the barbershop sector,,,5,30,17,0,,,,,,,,,,
+2,GreenPallets,2,70,22-Jun-2017,14-Sep-2017,29-Jun-2017,,,,,150000,10,1500000,0,,,,,,,,,,
+2,CannoliDoCalimano,2,71,22-Jun-2017,14-Sep-2017,29-Jun-2017,,,,,150000,30,500000,0,,,,,,,,,,
+2,CatMyPet,2,72,22-Jun-2017,14-Sep-2017,29-Jun-2017,Pet Products,GPS tracker for pets,,,400000,15,2666667,1,200000,25.0,800000,,,1,200000,25,,Cristiana Arcangeli
+2,Robotron,2,73,22-Jun-2017,14-Sep-2017,29-Jun-2017,Technology/Software,solutions for the Internet of Things (IoT),,,330000,25,1320000,1,300000,15.0,2000000,,yes,1,300000,15,,Rodrigo Loures
+2,Badabada,3,74,22-Jun-2017,14-Sep-2017,6-Jul-2017,,,,,,,,0,,,,,,,,,,
+2,GoTube,3,75,22-Jun-2017,14-Sep-2017,6-Jul-2017,Beauty/Fashion,"reusable, flexible, and collapsible silicone tube designed for packing toiletries",,,,,,1,150000,30.0,500000,,,1,150000,30,,Cristiana Arcangeli
+2,Z360,3,76,22-Jun-2017,14-Sep-2017,6-Jul-2017,Technology/Software,"creating, publishing, and distributing 360-degree and virtual reality",,,,,,1,500000,20.0,2500000,,,5,100000,4,,"João Appolinário, Cristiana Arcangeli, Robinson Shiba, Sorocaba, Camila Farani"
+2,FlexInterativa,3,77,22-Jun-2017,14-Sep-2017,6-Jul-2017,,,,,,,,0,,,,,,,,,,
+2,LysaCão-GuiaRobô,4,78,22-Jun-2017,14-Sep-2017,13-Jul-2017,Technology/Software,robotic device designed to assist visually impaired people,,,,,,1,500000,30.0,1666667,,,5,100000,6,,"João Appolinário, Cristiana Arcangeli, Robinson Shiba, Sorocaba, Camila Farani"
+2,CarneNaLata,4,79,22-Jun-2017,14-Sep-2017,13-Jul-2017,,,,,,,,0,,,,,,,,,,
+2,RedFeather,4,80,22-Jun-2017,14-Sep-2017,13-Jul-2017,Food and Beverage,"premium, canned fish products",,,,,,1,200000,25,800000,,,1,200000,25,,João Appolinário
+2,JohnnyMotorcycles,4,81,22-Jun-2017,14-Sep-2017,13-Jul-2017,,,,,,,,0,,,,,,,,,,
+2,Leaf,5,82,22-Jun-2017,14-Sep-2017,20-Jul-2017,,,,,,,,0,,,,,,,,,,
+2,ErikaBronze,5,83,22-Jun-2017,14-Sep-2017,20-Jul-2017,Beauty/Fashion,"subscription box and e-commerce brand for high-quality, professional tanning",,,,,,1,150000,20,750000,,,1,150000,20,,Camila Farani
+2,Syanz,5,84,22-Jun-2017,14-Sep-2017,20-Jul-2017,,,,,,,,0,,,,,,,,,,
+2,BobsJet,5,85,22-Jun-2017,14-Sep-2017,20-Jul-2017,Business Services,private jet charter and shared flights,,,,,,1,300000,15.0,2000000,,,1,300000,15,,Rodrigo Loures
+2,SuperMarcas,6,86,22-Jun-2017,14-Sep-2017,27-Jul-2017,,,,,,,,0,,,,,,,,,,
+2,FlyChildren,6,87,22-Jun-2017,14-Sep-2017,27-Jul-2017,,,,,,,,,,,,,,,,,,
+2,CartãoSolar,6,88,22-Jun-2017,14-Sep-2017,27-Jul-2017,,,,,,,,,,,,,,,,,,
+2,Insider,6,89,22-Jun-2017,14-Sep-2017,27-Jul-2017,Beauty/Fashion,Functional Clothing,,,500000,5,10000000,1,500000,12.0,4166667,,,2,250000,6,,"João Appolinário, José Carlos Semenzato"
+2,TchauBosta,7,90,22-Jun-2017,14-Sep-2017,3-Aug-2017,,,,,,,,,,,,,,,,,,
+2,VolareBrasil,7,91,22-Jun-2017,14-Sep-2017,3-Aug-2017,,,,,,,,,,,,,,,,,,
+2,b.eat,7,92,22-Jun-2017,14-Sep-2017,3-Aug-2017,,,,,,,,,,,,,,,,,,
+2,Protesis,7,93,22-Jun-2017,14-Sep-2017,3-Aug-2017,,,,,,,,,,,,,,,,,,
+2,TheClubhouse,8,94,22-Jun-2017,14-Sep-2017,10-Aug-2017,,,,,,,,,,,,,,,,,,
+2,Cosmedical,8,95,22-Jun-2017,14-Sep-2017,10-Aug-2017,,,,,,,,,,,,,,,,,,
+2,TeraPlay,8,96,22-Jun-2017,14-Sep-2017,10-Aug-2017,,,,,,,,,,,,,,,,,,
+2,BabyBeachChampanheria,8,97,22-Jun-2017,14-Sep-2017,10-Aug-2017,,,,,,,,,,,,,,,,,,
+2,E-Moving,9,98,22-Jun-2017,14-Sep-2017,17-Aug-2017,Automotive/Vehicles,Electric bicycles,,,,,,,,,,,,,,,,
+2,FixIt,9,99,22-Jun-2017,14-Sep-2017,17-Aug-2017,,,,,,,,,,,,,,,,,,
+2,BubbleMixTea,9,100,22-Jun-2017,14-Sep-2017,17-Aug-2017,,,,,,,,,,,,,,,,,,
+2,EatClean,10,101,22-Jun-2017,14-Sep-2017,24-Aug-2017,,,,,,,,,,,,,,,,,,
+2,ThinkTank,10,102,22-Jun-2017,14-Sep-2017,24-Aug-2017,,,,,,,,,,,,,,,,,,
+2,Concola,10,103,22-Jun-2017,14-Sep-2017,24-Aug-2017,,,,,,,,,,,,,,,,,,
+2,Getmore,10,104,22-Jun-2017,14-Sep-2017,24-Aug-2017,,,,,,,,,,,,,,,,,,
+2,Canana,11,105,22-Jun-2017,14-Sep-2017,31-Aug-2017,,,,,,,,,,,,,,,,,,
+2,HOMA,11,106,22-Jun-2017,14-Sep-2017,31-Aug-2017,,,,,,,,,,,,,,,,,,
+2,OceanDrop,11,107,22-Jun-2017,14-Sep-2017,31-Aug-2017,,,,,,,,,,,,,,,,,,
+2,NoBones,11,108,22-Jun-2017,14-Sep-2017,31-Aug-2017,,,,,,,,,,,,,,,,,,
+2,Chimafácil,12,109,22-Jun-2017,14-Sep-2017,7-Sep-2017,,,,,,,,,,,,,,,,,,
+2,Paubrasil,12,110,22-Jun-2017,14-Sep-2017,7-Sep-2017,,,,,,,,,,,,,,,,,,
+2,M-Tronix,12,111,22-Jun-2017,14-Sep-2017,7-Sep-2017,,,,,,,,,,,,,,,,,,
+2,Descarclean,12,112,22-Jun-2017,14-Sep-2017,7-Sep-2017,,,,,,,,,,,,,,,,,,
+2,MissLaura,13,113,22-Jun-2017,14-Sep-2017,14-Sep-2017,,,,,,,,,,,,,,,,,,
+2,SaturnoV,13,114,22-Jun-2017,14-Sep-2017,14-Sep-2017,,,,,,,,,,,,,,,,,,
+2,2goBag,13,115,22-Jun-2017,14-Sep-2017,14-Sep-2017,,,,,,,,,,,,,,,,,,
+2,SagradoBoulangerie,13,116,22-Jun-2017,14-Sep-2017,14-Sep-2017,,,,,,,,,,,,,,,,,,
+2,MyGreenPet,,117,22-Jun-2017,14-Sep-2017,,Pet Products,Eco pet products,,,200000,15,1333333,1,200000,30.0,666667,,,2,100000,15,,"Caito Maia, Robinson Shiba"
+3,Logay,1,118,17-Aug-2018,21-Dec-2018,17-Aug-2018,Beauty/Fashion,"e-commerce for LGBTQIA+ community, selling clothing, decor, and other products",,,,,,,,,,,,,,,,
+3,Bikecina,1,119,17-Aug-2018,21-Dec-2018,17-Aug-2018,Automotive/Vehicles,Mobile bicycle repair service operating via vans,,,,,,,,,,,,,,,,
+3,MegaHairline,1,120,17-Aug-2018,21-Dec-2018,17-Aug-2018,Beauty/Fashion,Business focused on hair products or services,,,,,,,,,,,,,,,,
+3,AdamRobô,2,121,17-Aug-2018,21-Dec-2018,24-Aug-2018,Technology/Software,Technology/education solutions,,,,,,,,,,,,,,,,
+3,SoCute,2,122,17-Aug-2018,21-Dec-2018,24-Aug-2018,Beauty/Fashion,Fashion or accessories,,,,,,,,,,,,,,,,
+3,IlSordo,2,123,17-Aug-2018,21-Dec-2018,24-Aug-2018,,,,,,,,,,,,,,,,,,
+3,StoryCloud,2,124,17-Aug-2018,21-Dec-2018,24-Aug-2018,Technology/Software,Cloud-based solutions for storytelling or education,,,,,,,,,,,,,,,,
+3,PromovEmpilhadeiras,3,125,17-Aug-2018,21-Dec-2018,31-Aug-2018,,,,,,,,,,,,,,,,,,
+3,MassanaCaveira,3,126,17-Aug-2018,21-Dec-2018,31-Aug-2018,,,,,,,,,,,,,,,,,,
+3,Nous,3,127,17-Aug-2018,21-Dec-2018,31-Aug-2018,,,,,,,,,,,,,,,,,,
+3,TruckVision,3,128,17-Aug-2018,21-Dec-2018,31-Aug-2018,,,,,,,,,,,,,,,,,,
+3,Jobecam.SilvanaTrucss,4,129,17-Aug-2018,21-Dec-2018,14-Sep-2018,,,,,,,,,,,,,,,,,,
+3,Ilunga,4,130,17-Aug-2018,21-Dec-2018,14-Sep-2018,,,,,,,,,,,,,,,,,,
+3,Weasy,4,131,17-Aug-2018,21-Dec-2018,14-Sep-2018,,,,,,,,,,,,,,,,,,
+3,FrutaImperfeita,5,132,17-Aug-2018,21-Dec-2018,21-Sep-2018,,,,,,,,,,,,,,,,,,
+3,Poppin,5,133,17-Aug-2018,21-Dec-2018,21-Sep-2018,,,,,,,,,,,,,,,,,,
+3,RéguaDiamante,5,134,17-Aug-2018,21-Dec-2018,21-Sep-2018,,,,,,,,,,,,,,,,,,
+3,FAVImóveis,5,135,17-Aug-2018,21-Dec-2018,21-Sep-2018,,,,,,,,,,,,,,,,,,
+3,SeemiPro,6,136,17-Aug-2018,21-Dec-2018,28-Sep-2018,,,,,,,,,,,,,,,,,,
+3,BombagsSemicases,6,137,17-Aug-2018,21-Dec-2018,28-Sep-2018,,,,,,,,,,,,,,,,,,
+3,PingentedeAmor,6,138,17-Aug-2018,21-Dec-2018,28-Sep-2018,,,,,,,,,,,,,,,,,,
+3,Gulover,6,139,17-Aug-2018,21-Dec-2018,28-Sep-2018,,,,,,,,,,,,,,,,,,
+3,Tapiocaria,7,140,17-Aug-2018,21-Dec-2018,5-Oct-2018,,,,,,,,,,,,,,,,,,
+3,EverestVR,7,141,17-Aug-2018,21-Dec-2018,5-Oct-2018,,,,,,,,,,,,,,,,,,
+3,EscapeTime,7,142,17-Aug-2018,21-Dec-2018,5-Oct-2018,,,,,,,,,,,,,,,,,,
+3,MochilaUrbam,7,143,17-Aug-2018,21-Dec-2018,5-Oct-2018,,,,,,,,,,,,,,,,,,
+3,Babuxca,8,144,17-Aug-2018,21-Dec-2018,19-Oct-2018,,,,,,,,,,,,,,,,,,
+3,Penka,8,145,17-Aug-2018,21-Dec-2018,19-Oct-2018,,,,,,,,,,,,,,,,,,
+3,Oop!,8,146,17-Aug-2018,21-Dec-2018,19-Oct-2018,,,,,,,,,,,,,,,,,,
+3,Mescla,8,147,17-Aug-2018,21-Dec-2018,19-Oct-2018,,,,,,,,,,,,,,,,,,
+3,WonderSize,9,148,17-Aug-2018,21-Dec-2018,26-Oct-2018,,,,,,,,,,,,,,,,,,
+3,Mespper,9,149,17-Aug-2018,21-Dec-2018,26-Oct-2018,,,,,,,,,,,,,,,,,,
+3,Muskinha,9,150,17-Aug-2018,21-Dec-2018,26-Oct-2018,,,,,,,,,,,,,,,,,,
+3,EasyGarlic,9,151,17-Aug-2018,21-Dec-2018,26-Oct-2018,,,,,,,,,,,,,,,,,,
+3,MyselfMobile,10,152,17-Aug-2018,21-Dec-2018,9-Nov-2018,,,,,,,,,,,,,,,,,,
+3,MulekdeRua,10,153,17-Aug-2018,21-Dec-2018,9-Nov-2018,,,,,,,,,,,,,,,,,,
+3,Egui's,10,154,17-Aug-2018,21-Dec-2018,9-Nov-2018,,,,,,,,,,,,,,,,,,
+3,Brindiamo,10,155,17-Aug-2018,21-Dec-2018,9-Nov-2018,,,,,,,,,,,,,,,,,,
+3,LEDAX,11,156,17-Aug-2018,21-Dec-2018,16-Nov-2018,,,,,,,,,,,,,,,,,,
+3,Yogothin,11,157,17-Aug-2018,21-Dec-2018,16-Nov-2018,,,,,,,,,,,,,,,,,,
+3,VendingTudo,11,158,17-Aug-2018,21-Dec-2018,16-Nov-2018,,,,,,,,,,,,,,,,,,
+3,ML3,11,159,17-Aug-2018,21-Dec-2018,16-Nov-2018,,,,,,,,,,,,,,,,,,
+3,Nutfree,12,160,17-Aug-2018,21-Dec-2018,23-Nov-2018,,,,,,,,,,,,,,,,,,
+3,Ecotent,12,161,17-Aug-2018,21-Dec-2018,23-Nov-2018,,,,,,,,,,,,,,,,,,
+3,Unidroid,12,162,17-Aug-2018,21-Dec-2018,23-Nov-2018,,,,,,,,,,,,,,,,,,
+3,Noeh,12,163,17-Aug-2018,21-Dec-2018,23-Nov-2018,,,,,,,,,,,,,,,,,,
+3,ThatGirl,13,164,17-Aug-2018,21-Dec-2018,30-Nov-2018,,,,,,,,,,,,,,,,,,
+3,BorrachariadoLeandro,13,165,17-Aug-2018,21-Dec-2018,30-Nov-2018,,,,,,,,,,,,,,,,,,
+3,Retrôgol,13,166,17-Aug-2018,21-Dec-2018,30-Nov-2018,,,,,,,,,,,,,,,,,,
+3,VocêRevest,13,167,17-Aug-2018,21-Dec-2018,30-Nov-2018,,,,,,,,,,,,,,,,,,
+3,Zunia,14,168,17-Aug-2018,21-Dec-2018,7-Dec-2018,,,,,,,,,,,,,,,,,,
+3,H-Gym,14,169,17-Aug-2018,21-Dec-2018,7-Dec-2018,,,,,,,,,,,,,,,,,,
+3,TurismoAdaptado,14,170,17-Aug-2018,21-Dec-2018,7-Dec-2018,,,,,,,,,,,,,,,,,,
+3,PrintGreen3D,14,171,17-Aug-2018,21-Dec-2018,7-Dec-2018,,,,,,,,,,,,,,,,,,
+3,QuickSummer,14,172,17-Aug-2018,21-Dec-2018,7-Dec-2018,,,,,,,,,,,,,,,,,,
+3,PremiaPão,15,173,17-Aug-2018,21-Dec-2018,14-Dec-2018,,,,,,,,,,,,,,,,,,
+3,BichodePet,15,174,17-Aug-2018,21-Dec-2018,14-Dec-2018,Pet Products,,,,,,,,,,,,,,,,,
+3,ColchãoFlow,15,175,17-Aug-2018,21-Dec-2018,14-Dec-2018,,,,,,,,,,,,,,,,,,
+3,RioClaro,15,176,17-Aug-2018,21-Dec-2018,14-Dec-2018,,,,,,,,,,,,,,,,,,
+3,Uniquebox,16,177,17-Aug-2018,21-Dec-2018,21-Dec-2018,,,,,,,,,,,,,,,,,,
+3,Play2sell,16,178,17-Aug-2018,21-Dec-2018,21-Dec-2018,,,,,,,,,,,,,,,,,,
+3,AcademiadoRock,16,179,17-Aug-2018,21-Dec-2018,21-Dec-2018,,,,,,,,,,,,,,,,,,
+3,Biomassa,16,180,17-Aug-2018,21-Dec-2018,21-Dec-2018,,,,,,,,,,,,,,,,,,
+3,MeiMei,,181,17-Aug-2018,21-Dec-2018,,Food and Beverage,Asian food,,,350000,10,3500000,1,350000,20.0,1750000,,,1,350000,20,,Robinson Shiba
+4,Criativando,1,182,28-Jun-2019,18-Oct-2019,28-Jun-2019,,,,,,,,,,,,,,,,,,
+4,BonecosInfláveis,1,183,28-Jun-2019,18-Oct-2019,28-Jun-2019,,,,,,,,,,,,,,,,,,
+4,WiseHome,1,184,28-Jun-2019,18-Oct-2019,28-Jun-2019,,,,,,,,,,,,,,,,,,
+4,AcarajéDaMila,1,185,28-Jun-2019,18-Oct-2019,28-Jun-2019,,,,,,,,,,,,,,,,,,
+4,PetBamboo,2,186,28-Jun-2019,18-Oct-2019,5-Jul-2019,Pet Products,,,,,,,,,,,,,,,,,
+4,VoilàBag,2,187,28-Jun-2019,18-Oct-2019,5-Jul-2019,,,,,,,,,,,,,,,,,,
+4,WhoisHappy,2,188,28-Jun-2019,18-Oct-2019,5-Jul-2019,,,,,,,,,,,,,,,,,,
+4,BruiserSports,2,189,28-Jun-2019,18-Oct-2019,5-Jul-2019,,,,,,,,,,,,,,,,,,
+4,BlinDog,3,190,28-Jun-2019,18-Oct-2019,12-Jul-2019,,,,,,,,,,,,,,,,,,
+4,ClubeNerd,3,191,28-Jun-2019,18-Oct-2019,12-Jul-2019,,,,,,,,,,,,,,,,,,
+4,PizzaEstupenda,3,192,28-Jun-2019,18-Oct-2019,12-Jul-2019,,,,,,,,,,,,,,,,,,
+4,Transludica,3,193,28-Jun-2019,18-Oct-2019,12-Jul-2019,,,,,,,,,,,,,,,,,,
+4,CloShoes,4,194,28-Jun-2019,18-Oct-2019,19-Jul-2019,,,,,,,,,,,,,,,,,,
+4,DeixaQueEuPago,4,195,28-Jun-2019,18-Oct-2019,19-Jul-2019,Lifestyle/Home,Bill installment payments,,,1000000,10,10000000,1,1000000,15.0,6666667,,,3,333333.33,5,,"Caito Maia, Carol Paiffer, João Appolinário"
+4,AgênciaHangover,4,196,28-Jun-2019,18-Oct-2019,19-Jul-2019,,,,,,,,,,,,,,,,,,
+4,DriveMeSafe,4,197,28-Jun-2019,18-Oct-2019,19-Jul-2019,,,,,,,,,,,,,,,,,,
+4,Pança's,5,198,28-Jun-2019,18-Oct-2019,26-Jul-2019,,,,,,,,,,,,,,,,,,
+4,Vih!Kombucha,5,199,28-Jun-2019,18-Oct-2019,26-Jul-2019,,,,,,,,,,,,,,,,,,
+4,UniversodoCaminhão,5,200,28-Jun-2019,18-Oct-2019,26-Jul-2019,,,,,,,,,,,,,,,,,,
+4,SimplificaSaúde,5,201,28-Jun-2019,18-Oct-2019,26-Jul-2019,,,,,,,,,,,,,,,,,,
+4,ConfeitariadaLuana,6,202,28-Jun-2019,18-Oct-2019,2-Aug-2019,,,,,,,,,,,,,,,,,,
+4,PurePilates,6,203,28-Jun-2019,18-Oct-2019,2-Aug-2019,,,,,,,,,,,,,,,,,,
+4,EscoladeRobótica,6,204,28-Jun-2019,18-Oct-2019,2-Aug-2019,,,,,,,,,,,,,,,,,,
+4,JamesTip,6,205,28-Jun-2019,18-Oct-2019,2-Aug-2019,,,,,,,,,,,,,,,,,,
+4,Akokorô,7,206,28-Jun-2019,18-Oct-2019,9-Aug-2019,,,,,,,,,,,,,,,,,,
+4,Tensei,7,207,28-Jun-2019,18-Oct-2019,9-Aug-2019,,,,,,,,,,,,,,,,,,
+4,FazendaRentável,7,208,28-Jun-2019,18-Oct-2019,9-Aug-2019,,,,,,,,,,,,,,,,,,
+4,Tindin,7,209,28-Jun-2019,18-Oct-2019,9-Aug-2019,,,,,,,,,,,,,,,,,,
+4,BlindadoAcademy,8,210,28-Jun-2019,18-Oct-2019,16-Aug-2019,Beauty/Fashion,Hairstyle,,,,,,,,,,,,,,,,
+4,Tinbot,8,211,28-Jun-2019,18-Oct-2019,16-Aug-2019,,,,,,,,,,,,,,,,,,
+4,Nuwa,8,212,28-Jun-2019,18-Oct-2019,16-Aug-2019,,,,,,,,,,,,,,,,,,
+4,CatMyPet,8,213,28-Jun-2019,18-Oct-2019,16-Aug-2019,Pet Products,,,,,,,,,,,,,,,,,
+4,Egueiras,9,214,28-Jun-2019,18-Oct-2019,23-Aug-2019,,,,,,,,,,,,,,,,,,
+4,Liomeal,9,215,28-Jun-2019,18-Oct-2019,23-Aug-2019,,,,,,,,,,,,,,,,,,
+4,CyonCamaOdontológica,9,216,28-Jun-2019,18-Oct-2019,23-Aug-2019,,,,,,,,,,,,,,,,,,
+4,Aulife,9,217,28-Jun-2019,18-Oct-2019,23-Aug-2019,,,,,,,,,,,,,,,,,,
+4,AqualuzCamarão,10,218,28-Jun-2019,18-Oct-2019,30-Aug-2019,,,,,,,,,,,,,,,,,,
+4,Wecare,10,219,28-Jun-2019,18-Oct-2019,30-Aug-2019,,,,,,,,,,,,,,,,,,
+4,Tucupi,10,220,28-Jun-2019,18-Oct-2019,30-Aug-2019,,,,,,,,,,,,,,,,,,
+4,TranslongPet,10,221,28-Jun-2019,18-Oct-2019,30-Aug-2019,Pet Products,,,,,,,,,,,,,,,,,
+4,BanheirodeBolso,11,222,28-Jun-2019,18-Oct-2019,6-Sep-2019,,,,,,,,,,,,,,,,,,
+4,VictorHugoMattos,11,223,28-Jun-2019,18-Oct-2019,6-Sep-2019,,,,,,,,,,,,,,,,,,
+4,Numenu,11,224,28-Jun-2019,18-Oct-2019,6-Sep-2019,,,,,,,,,,,,,,,,,,
+4,KMOnline,11,225,28-Jun-2019,18-Oct-2019,6-Sep-2019,,,,,,,,,,,,,,,,,,
+4,KLSSafeSurf,12,226,28-Jun-2019,18-Oct-2019,13-Sep-2019,,,,,,,,,,,,,,,,,,
+4,Soriedem,12,227,28-Jun-2019,18-Oct-2019,13-Sep-2019,,,,,,,,,,,,,,,,,,
+4,Troppo,12,228,28-Jun-2019,18-Oct-2019,13-Sep-2019,,,,,,,,,,,,,,,,,,
+4,PhastApp,12,229,28-Jun-2019,18-Oct-2019,13-Sep-2019,,,,,,,,,,,,,,,,,,
+4,HUG,13,230,28-Jun-2019,18-Oct-2019,20-Sep-2019,,,,,,,,,,,,,,,,,,
+4,Autenticco,13,231,28-Jun-2019,18-Oct-2019,20-Sep-2019,,,,,,,,,,,,,,,,,,
+4,CasaOrgânica,13,232,28-Jun-2019,18-Oct-2019,20-Sep-2019,,,,,,,,,,,,,,,,,,
+4,Ezok,13,233,28-Jun-2019,18-Oct-2019,20-Sep-2019,,,,,,,,,,,,,,,,,,
+4,FluxAir,14,234,28-Jun-2019,18-Oct-2019,27-Sep-2019,,,,,,,,,,,,,,,,,,
+4,JapaVegana,14,235,28-Jun-2019,18-Oct-2019,27-Sep-2019,,,,,,,,,,,,,,,,,,
+4,RudeGear,14,236,28-Jun-2019,18-Oct-2019,27-Sep-2019,,,,,,,,,,,,,,,,,,
+4,PickupComfort,14,237,28-Jun-2019,18-Oct-2019,27-Sep-2019,,,,,,,,,,,,,,,,,,
+4,FichipsFood,15,238,28-Jun-2019,18-Oct-2019,4-Oct-2019,,,,,,,,,,,,,,,,,,
+4,B.live,15,239,28-Jun-2019,18-Oct-2019,4-Oct-2019,,,,,,,,,,,,,,,,,,
+4,SestiniCare,15,240,28-Jun-2019,18-Oct-2019,4-Oct-2019,,,,,,,,,,,,,,,,,,
+4,LaPimi.CarMakeUp,15,241,28-Jun-2019,18-Oct-2019,4-Oct-2019,Food and Beverage,Condiments,,,,,,,,,,,,,,,,
+4,DogBeer,16,242,28-Jun-2019,18-Oct-2019,11-Oct-2019,,,,,,,,,,,,,,,,,,
+4,DeBenguela,16,243,28-Jun-2019,18-Oct-2019,11-Oct-2019,,,,,,,,,,,,,,,,,,
+4,EletroPay,16,244,28-Jun-2019,18-Oct-2019,11-Oct-2019,,,,,,,,,,,,,,,,,,
+4,ParmAlimentos,16,245,28-Jun-2019,18-Oct-2019,11-Oct-2019,,,,,,,,,,,,,,,,,,
+4,Visto.bio,17,246,28-Jun-2019,18-Oct-2019,18-Oct-2019,Green/CleanTech,Biodegradable plastic,,,,,,,,,,,,,,,,
+4,CycorCibernética,17,247,28-Jun-2019,18-Oct-2019,18-Oct-2019,,,,,,,,,,,,,,,,,,
+4,FazendaRentável,17,248,28-Jun-2019,18-Oct-2019,18-Oct-2019,,,,,,,,,,,,,,,,,,
+5,Wakanda,1,249,20-Nov-2020,26-Feb-2021,20-Nov-2020,,,,,,,,,,,,,,,,,,
+5,FutmesaBrasil,1,250,20-Nov-2020,26-Feb-2021,20-Nov-2020,,,,,,,,,,,,,,,,,,
+5,IceCup,1,251,20-Nov-2020,26-Feb-2021,20-Nov-2020,,,,,,,,,,,,,,,,,,
+5,MalokeroBurger,1,252,20-Nov-2020,26-Feb-2021,20-Nov-2020,,,,,,,,,,,,,,,,,,
+5,LojadoCuteleiro,2,253,20-Nov-2020,26-Feb-2021,27-Nov-2020,,,,,,,,,,,,,,,,,,
+5,#deixaelatreinar,2,254,20-Nov-2020,26-Feb-2021,27-Nov-2020,,,,,,,,,,,,,,,,,,
+5,E-Motors,2,255,20-Nov-2020,26-Feb-2021,27-Nov-2020,,,,,,,,,,,,,,,,,,
+5,Duolibras,2,256,20-Nov-2020,26-Feb-2021,27-Nov-2020,,,,,,,,,,,,,,,,,,
+5,Florent,3,257,20-Nov-2020,26-Feb-2021,4-Dec-2020,,,,,,,,,,,,,,,,,,
+5,Sonder,3,258,20-Nov-2020,26-Feb-2021,4-Dec-2020,,,,,,,,,,,,,,,,,,
+5,Amostrix,3,259,20-Nov-2020,26-Feb-2021,4-Dec-2020,,,,,,,,,,,,,,,,,,
+5,Ecooler,3,260,20-Nov-2020,26-Feb-2021,4-Dec-2020,,,,,,,,,,,,,,,,,,
+5,TapeteAntivírus,4,261,20-Nov-2020,26-Feb-2021,11-Dec-2020,,,,,,,,,,,,,,,,,,
+5,2FWIndústria,4,262,20-Nov-2020,26-Feb-2021,11-Dec-2020,,,,,,,,,,,,,,,,,,
+5,DivasBllack,4,263,20-Nov-2020,26-Feb-2021,11-Dec-2020,,,,,,,,,,,,,,,,,,
+5,EqualModaInclusiva,4,264,20-Nov-2020,26-Feb-2021,11-Dec-2020,,,,,,,,,,,,,,,,,,
+5,ImpériodoPiolho,5,265,20-Nov-2020,26-Feb-2021,18-Dec-2020,,,,,,,,,,,,,,,,,,
+5,RubberBrasil,5,266,20-Nov-2020,26-Feb-2021,18-Dec-2020,,,,,,,,,,,,,,,,,,
+5,ClubinhoPreto,5,267,20-Nov-2020,26-Feb-2021,18-Dec-2020,,,,,,,,,,,,,,,,,,
+5,RecupeHair,5,268,20-Nov-2020,26-Feb-2021,18-Dec-2020,,,,,,,,,,,,,,,,,,
+5,IdentityTravel,6,269,20-Nov-2020,26-Feb-2021,15-Jan-2021,,,,,,,,,,,,,,,,,,
+5,ChurrasDelas,6,270,20-Nov-2020,26-Feb-2021,15-Jan-2021,,,,,,,,,,,,,,,,,,
+5,SmartGaas,6,271,20-Nov-2020,26-Feb-2021,15-Jan-2021,,,,,,,,,,,,,,,,,,
+5,Amyi,6,272,20-Nov-2020,26-Feb-2021,15-Jan-2021,,,,,,,,,,,,,,,,,,
+5,PLT4Way,7,273,20-Nov-2020,26-Feb-2021,22-Jan-2021,,,,,,,,,,,,,,,,,,
+5,Grood.me,7,274,20-Nov-2020,26-Feb-2021,22-Jan-2021,,,,,,,,,,,,,,,,,,
+5,Peçaneta,7,275,20-Nov-2020,26-Feb-2021,22-Jan-2021,,,,,,,,,,,,,,,,,,
+5,Aneesa,7,276,20-Nov-2020,26-Feb-2021,22-Jan-2021,,,,,,,,,,,,,,,,,,
+5,Badalacão,8,277,20-Nov-2020,26-Feb-2021,29-Jan-2021,,,,,,,,,,,,,,,,,,
+5,NJ7Fertilizantes,8,278,20-Nov-2020,26-Feb-2021,29-Jan-2021,,,,,,,,,,,,,,,,,,
+5,Sussurra,8,279,20-Nov-2020,26-Feb-2021,29-Jan-2021,,,,,,,,,,,,,,,,,,
+5,Polentake,8,280,20-Nov-2020,26-Feb-2021,29-Jan-2021,,,,,,,,,,,,,,,,,,
+5,Empreendedor4.0,9,281,20-Nov-2020,26-Feb-2021,5-Feb-2021,,,,,,,,,,,,,,,,,,
+5,Avesso,9,282,20-Nov-2020,26-Feb-2021,5-Feb-2021,,,,,,,,,,,,,,,,,,
+5,Advys,9,283,20-Nov-2020,26-Feb-2021,5-Feb-2021,,,,,,,,,,,,,,,,,,
+5,SmartRoad,9,284,20-Nov-2020,26-Feb-2021,5-Feb-2021,,,,,,,,,,,,,,,,,,
+5,Lab77,10,285,20-Nov-2020,26-Feb-2021,12-Feb-2021,,,,,,,,,,,,,,,,,,
+5,Dionisio.Ag,10,286,20-Nov-2020,26-Feb-2021,12-Feb-2021,,,,,,,,,,,,,,,,,,
+5,PitGrooming,10,287,20-Nov-2020,26-Feb-2021,12-Feb-2021,,,,,,,,,,,,,,,,,,
+5,Styme,10,288,20-Nov-2020,26-Feb-2021,12-Feb-2021,,,,,,,,,,,,,,,,,,
+5,GameJam+,11,289,20-Nov-2020,26-Feb-2021,19-Feb-2021,,,,,,,,,,,,,,,,,,
+5,SóSnacks,11,290,20-Nov-2020,26-Feb-2021,19-Feb-2021,,,,,,,,,,,,,,,,,,
+5,Sedduzy,11,291,20-Nov-2020,26-Feb-2021,19-Feb-2021,,,,,,,,,,,,,,,,,,
+5,MeuDentistaemCasa,11,292,20-Nov-2020,26-Feb-2021,19-Feb-2021,,,,,,,,,,,,,,,,,,
+5,Bionicook,12,293,20-Nov-2020,26-Feb-2021,26-Feb-2021,,,,,,,,,,,,,,,,,,
+5,Egalitê,12,294,20-Nov-2020,26-Feb-2021,26-Feb-2021,,,,,,,,,,,,,,,,,,
+5,DoceriaDonaTereza,12,295,20-Nov-2020,26-Feb-2021,26-Feb-2021,,,,,,,,,,,,,,,,,,
+5,Nanoprice,12,296,20-Nov-2020,26-Feb-2021,26-Feb-2021,,,,,,,,,,,,,,,,,,
+5,TintasDecorativas,,297,20-Nov-2020,26-Feb-2021,,Lifestyle/Home,Decor paints,,,,,,,,,,,,,,,,
+6,GatoCafé,1,298,24-Sep-2021,17-Dec-2021,24-Sep-2021,,,,,,,,,,,,,,,,,,
+6,NetWordAgro,1,299,24-Sep-2021,17-Dec-2021,24-Sep-2021,,,,,,,,,,,,,,,,,,
+6,GG.rie,1,300,24-Sep-2021,17-Dec-2021,24-Sep-2021,,,,,,,,,,,,,,,,,,
+6,Migs,1,301,24-Sep-2021,17-Dec-2021,24-Sep-2021,,,,,,,,,,,,,,,,,,
+6,DueLaser,2,302,24-Sep-2021,17-Dec-2021,1-Oct-2021,,,,,,,,,,,,,,,,,,
+6,DecorColors,2,303,24-Sep-2021,17-Dec-2021,1-Oct-2021,,,,,,,,,,,,,,,,,,
+6,BabyConcierge,2,304,24-Sep-2021,17-Dec-2021,1-Oct-2021,,,,,,,,,,,,,,,,,,
+6,BentôKids,2,305,24-Sep-2021,17-Dec-2021,1-Oct-2021,,,,,,,,,,,,,,,,,,
+6,LiveEquipamentos,3,306,24-Sep-2021,17-Dec-2021,8-Oct-2021,,,,,,,,,,,,,,,,,,
+6,Chameleon,3,307,24-Sep-2021,17-Dec-2021,8-Oct-2021,,,,,,,,,,,,,,,,,,
+6,PataFix,3,308,24-Sep-2021,17-Dec-2021,8-Oct-2021,,,,,,,,,,,,,,,,,,
+6,BordaELenha,3,309,24-Sep-2021,17-Dec-2021,8-Oct-2021,Food and Beverage,Pizza Franchise,,,300000,20,1500000,1,300000,50.0,600000,,,2,150000,25,,"José Carlos Semenzato, Felipe Titto"
+6,ObjetosDeCoração,4,310,24-Sep-2021,17-Dec-2021,15-Oct-2021,,,,,,,,,,,,,,,,,,
+6,TubarãoMartelo,4,311,24-Sep-2021,17-Dec-2021,15-Oct-2021,,,,,,,,,,,,,,,,,,
+6,BitsAcademy,4,312,24-Sep-2021,17-Dec-2021,15-Oct-2021,,,,,,,,,,,,,,,,,,
+6,UmBomApp,4,313,24-Sep-2021,17-Dec-2021,15-Oct-2021,,,,,,,,,,,,,,,,,,
+6,SiestaBox,5,314,24-Sep-2021,17-Dec-2021,22-Oct-2021,,,,,,,,,,,,,,,,,,
+6,BlackPurpurinModa3D,5,315,24-Sep-2021,17-Dec-2021,22-Oct-2021,,,,,,,,,,,,,,,,,,
+6,Piquealto,5,316,24-Sep-2021,17-Dec-2021,22-Oct-2021,,,,,,,,,,,,,,,,,,
+6,SophieSensualFeelings,5,317,24-Sep-2021,17-Dec-2021,22-Oct-2021,,,,,,,,,,,,,,,,,,
+6,MartelloEducaçãoFinanceira,6,318,24-Sep-2021,17-Dec-2021,29-Oct-2021,,,,,,,,,,,,,,,,,,
+6,HubHomeBox,6,319,24-Sep-2021,17-Dec-2021,29-Oct-2021,,,,,,,,,,,,,,,,,,
+6,VestidasDeBranco,6,320,24-Sep-2021,17-Dec-2021,29-Oct-2021,,,,,,,,,,,,,,,,,,
+6,FitAnywhere,6,321,24-Sep-2021,17-Dec-2021,29-Oct-2021,,,,,,,,,,,,,,,,,,
+6,FilmaEu,7,322,24-Sep-2021,17-Dec-2021,5-Nov-2021,,,,,,,,,,,,,,,,,,
+6,Helpbox.care,7,323,24-Sep-2021,17-Dec-2021,5-Nov-2021,,,,,,,,,,,,,,,,,,
+6,ViaVoiceForFashion,7,324,24-Sep-2021,17-Dec-2021,5-Nov-2021,,,,,,,,,,,,,,,,,,
+6,Fertili,7,325,24-Sep-2021,17-Dec-2021,5-Nov-2021,,,,,,,,,,,,,,,,,,
+6,MiniOrbe,8,326,24-Sep-2021,17-Dec-2021,12-Nov-2021,,,,,,,,,,,,,,,,,,
+6,TricotGigante,8,327,24-Sep-2021,17-Dec-2021,12-Nov-2021,,,,,,,,,,,,,,,,,,
+6,BrainstormAcademy,8,328,24-Sep-2021,17-Dec-2021,12-Nov-2021,,,,,,,,,,,,,,,,,,
+6,Sharazad,8,329,24-Sep-2021,17-Dec-2021,12-Nov-2021,,,,,,,,,,,,,,,,,,
+6,KidsBilíngue,9,330,24-Sep-2021,17-Dec-2021,19-Nov-2021,,,,,,,,,,,,,,,,,,
+6,Lilu,9,331,24-Sep-2021,17-Dec-2021,19-Nov-2021,,,,,,,,,,,,,,,,,,
+6,Trend2box,9,332,24-Sep-2021,17-Dec-2021,19-Nov-2021,,,,,,,,,,,,,,,,,,
+6,AfroAcademy,9,333,24-Sep-2021,17-Dec-2021,19-Nov-2021,,,,,,,,,,,,,,,,,,
+6,NuvemVassouras,10,334,24-Sep-2021,17-Dec-2021,26-Nov-2021,,,,,,,,,,,,,,,,,,
+6,FungoDeQuintal,10,335,24-Sep-2021,17-Dec-2021,26-Nov-2021,,,,,,,,,,,,,,,,,,
+6,AfraDesign,10,336,24-Sep-2021,17-Dec-2021,26-Nov-2021,,,,,,,,,,,,,,,,,,
+6,Guug,10,337,24-Sep-2021,17-Dec-2021,26-Nov-2021,,,,,,,,,,,,,,,,,,
+6,CasusGrill,11,338,24-Sep-2021,17-Dec-2021,3-Dec-2021,,,,,,,,,,,,,,,,,,
+6,Holobox,11,339,24-Sep-2021,17-Dec-2021,3-Dec-2021,,,,,,,,,,,,,,,,,,
+6,Omens,11,340,24-Sep-2021,17-Dec-2021,3-Dec-2021,,,,,,,,,,,,,,,,,,
+6,Helpvino,11,341,24-Sep-2021,17-Dec-2021,3-Dec-2021,,,,,,,,,,,,,,,,,,
+6,MonPetitChéri,12,342,24-Sep-2021,17-Dec-2021,10-Dec-2021,,,,,,,,,,,,,,,,,,
+6,Ecomilhas,12,343,24-Sep-2021,17-Dec-2021,10-Dec-2021,,,,,,,,,,,,,,,,,,
+6,TotiDiversidade,12,344,24-Sep-2021,17-Dec-2021,10-Dec-2021,,,,,,,,,,,,,,,,,,
+6,E-Senses,12,345,24-Sep-2021,17-Dec-2021,10-Dec-2021,,,,,,,,,,,,,,,,,,
+6,PrintFoods,13,346,24-Sep-2021,17-Dec-2021,17-Dec-2021,,,,,,,,,,,,,,,,,,
+6,OkaColiving,13,347,24-Sep-2021,17-Dec-2021,17-Dec-2021,,,,,,,,,,,,,,,,,,
+6,Maré,13,348,24-Sep-2021,17-Dec-2021,17-Dec-2021,,,,,,,,,,,,,,,,,,
+6,Smartmidia,13,349,24-Sep-2021,17-Dec-2021,17-Dec-2021,,,,,,,,,,,,,,,,,,
+6,FlowGames,,350,24-Sep-2021,17-Dec-2021,,Technology/Software,Game Studio,,,300000,15,2000000,1,300000,30.0,1000000,,,2,150000,15,,"Camila Farani, Carol Paiffer"
+7,Petcoaching,1,351,25-Aug-2022,17-Nov-2022,25-Aug-2022,Pet Products,,,,,,,,,,,,,,,,,
+7,ImmoInvest,1,352,25-Aug-2022,17-Nov-2022,25-Aug-2022,,,,,,,,,,,,,,,,,,
+7,DressAll,1,353,25-Aug-2022,17-Nov-2022,25-Aug-2022,Beauty/Fashion,Rental Platform,,,10000000,10,100000000,0,,,,,,,,,,
+7,LaGanexa,1,354,25-Aug-2022,17-Nov-2022,25-Aug-2022,,,,,,,,,,,,,,,,,,
+7,Ioupie,2,355,25-Aug-2022,17-Nov-2022,1-Sep-2022,,,,,,,,,,,,,,,,,,
+7,Mosque,2,356,25-Aug-2022,17-Nov-2022,1-Sep-2022,,,,,,,,,,,,,,,,,,
+7,Fabapp,2,357,25-Aug-2022,17-Nov-2022,1-Sep-2022,,,,,,,,,,,,,,,,,,
+7,RelevoStore,2,358,25-Aug-2022,17-Nov-2022,1-Sep-2022,,,,,,,,,,,,,,,,,,
+7,Tá,3,359,25-Aug-2022,17-Nov-2022,8-Sep-2022,,,,,,,,,,,,,,,,,,
+7,Querida!,3,360,25-Aug-2022,17-Nov-2022,8-Sep-2022,,,,,,,,,,,,,,,,,,
+7,AngíChocolates,3,361,25-Aug-2022,17-Nov-2022,8-Sep-2022,,,,,,,,,,,,,,,,,,
+7,Plantô,3,362,25-Aug-2022,17-Nov-2022,8-Sep-2022,,,,,,,,,,,,,,,,,,
+7,Teia,3,363,25-Aug-2022,17-Nov-2022,8-Sep-2022,,,,,,,,,,,,,,,,,,
+7,Brazilicious,4,364,25-Aug-2022,17-Nov-2022,15-Sep-2022,,,,,,,,,,,,,,,,,,
+7,BenDog,4,365,25-Aug-2022,17-Nov-2022,15-Sep-2022,,,,,,,,,,,,,,,,,,
+7,Xibata16,4,366,25-Aug-2022,17-Nov-2022,15-Sep-2022,,,,,,,,,,,,,,,,,,
+7,AMDModaFeminina,4,367,25-Aug-2022,17-Nov-2022,15-Sep-2022,,,,,,,,,,,,,,,,,,
+7,InterAtivaViagens,5,368,25-Aug-2022,17-Nov-2022,22-Sep-2022,,,,,,,,,,,,,,,,,,
+7,BarberStore,5,369,25-Aug-2022,17-Nov-2022,22-Sep-2022,,,,,,,,,,,,,,,,,,
+7,PdalBikeIndoor,5,370,25-Aug-2022,17-Nov-2022,22-Sep-2022,,,,,,,,,,,,,,,,,,
+7,E!EletrosInteligentes,5,371,25-Aug-2022,17-Nov-2022,22-Sep-2022,,,,,,,,,,,,,,,,,,
+7,Desembala,6,372,25-Aug-2022,17-Nov-2022,29-Sep-2022,,,,,,,,,,,,,,,,,,
+7,MiniDonuts,6,373,25-Aug-2022,17-Nov-2022,29-Sep-2022,,,,,,,,,,,,,,,,,,
+7,CresceVendas,6,374,25-Aug-2022,17-Nov-2022,29-Sep-2022,,,,,,,,,,,,,,,,,,
+7,DecotadoStore,6,375,25-Aug-2022,17-Nov-2022,29-Sep-2022,,,,,,,,,,,,,,,,,,
+7,RAS,7,376,25-Aug-2022,17-Nov-2022,6-Oct-2022,,,,,,,,,,,,,,,,,,
+7,StudioOlimpicShape,7,377,25-Aug-2022,17-Nov-2022,6-Oct-2022,,,,,,,,,,,,,,,,,,
+7,TimetoPlaySchool,7,378,25-Aug-2022,17-Nov-2022,6-Oct-2022,,,,,,,,,,,,,,,,,,
+7,BlendEdu,7,379,25-Aug-2022,17-Nov-2022,6-Oct-2022,,,,,,,,,,,,,,,,,,
+7,ArizonaBarbecue,8,380,25-Aug-2022,17-Nov-2022,13-Oct-2022,,,,,,,,,,,,,,,,,,
+7,Mush,8,381,25-Aug-2022,17-Nov-2022,13-Oct-2022,,,,,,,,,,,,,,,,,,
+7,KitboxClub,8,382,25-Aug-2022,17-Nov-2022,13-Oct-2022,,,,,,,,,,,,,,,,,,
+7,JaciNatural,8,383,25-Aug-2022,17-Nov-2022,13-Oct-2022,,,,,,,,,,,,,,,,,,
+7,iDelas,9,384,25-Aug-2022,17-Nov-2022,20-Oct-2022,,,,,,,,,,,,,,,,,,
+7,TapiocaExtreme,9,385,25-Aug-2022,17-Nov-2022,20-Oct-2022,,,,,,,,,,,,,,,,,,
+7,e-AmbientalResíduos,9,386,25-Aug-2022,17-Nov-2022,20-Oct-2022,,,,,,,,,,,,,,,,,,
+7,Nezti,9,387,25-Aug-2022,17-Nov-2022,20-Oct-2022,,,,,,,,,,,,,,,,,,
+7,ThomasBeauty,10,388,25-Aug-2022,17-Nov-2022,27-Oct-2022,,,,,,,,,,,,,,,,,,
+7,DestineJá,10,389,25-Aug-2022,17-Nov-2022,27-Oct-2022,,,,,,,,,,,,,,,,,,
+7,AmazôniaSmartFood,10,390,25-Aug-2022,17-Nov-2022,27-Oct-2022,,,,,,,,,,,,,,,,,,
+7,TuaqIce,10,391,25-Aug-2022,17-Nov-2022,27-Oct-2022,,,,,,,,,,,,,,,,,,
+7,CervejaMacuco,11,392,25-Aug-2022,17-Nov-2022,3-Nov-2022,,,,,,,,,,,,,,,,,,
+7,B.Craftsman,11,393,25-Aug-2022,17-Nov-2022,3-Nov-2022,Lifestyle/Home,Photography Accessories,,,500000,10,5000000,1,500000,20.0,2500000,,,2,250000,10,,"Camila Farani, João Appolinário"
+7,Kos,11,394,25-Aug-2022,17-Nov-2022,3-Nov-2022,,,,,,,,,,,,,,,,,,
+7,InvestidordeVerdade,11,395,25-Aug-2022,17-Nov-2022,3-Nov-2022,,,,,,,,,,,,,,,,,,
+7,EuVistooBem,12,396,25-Aug-2022,17-Nov-2022,10-Nov-2022,,,,,,,,,,,,,,,,,,
+7,ComfortAligner,12,397,25-Aug-2022,17-Nov-2022,10-Nov-2022,,,,,,,,,,,,,,,,,,
+7,SaúdaAcessóriosAfro,12,398,25-Aug-2022,17-Nov-2022,10-Nov-2022,,,,,,,,,,,,,,,,,,
+7,YogacomHistórias,12,399,25-Aug-2022,17-Nov-2022,10-Nov-2022,,,,,,,,,,,,,,,,,,
+7,TieClip,13,400,25-Aug-2022,17-Nov-2022,17-Nov-2022,,,,,,,,,,,,,,,,,,
+7,Ferdof,13,401,25-Aug-2022,17-Nov-2022,17-Nov-2022,,,,,,,,,,,,,,,,,,
+7,Toutsie,13,402,25-Aug-2022,17-Nov-2022,17-Nov-2022,,,,,,,,,,,,,,,,,,
+7,WRent,13,403,25-Aug-2022,17-Nov-2022,17-Nov-2022,,,,,,,,,,,,,,,,,,
+7,Credere,,404,25-Aug-2022,17-Nov-2022,,Automotive/Vehicles,Vehicle financing,,,500000,10,5000000,1,500000,20.0,2500000,,,3,166666.67,6.67,,"José Carlos Semenzato, Caito Maia, João Appolinário"
+8,AçaíRude,1,405,3-Oct-2023,12-Dec-2023,3-Oct-2023,Food and Beverage,ready-to-eat açaí mixes premium açaí with martial arts culture,,,,,,1,150000,15.0,1000000,,,1,150000.00,15.00,,Luiza Trajano
+8,PiscinApp,1,406,3-Oct-2023,12-Dec-2023,3-Oct-2023,Fitness/Sports/Outdoors,AI to recommend the correct amount of chemicals for pool maintenance,,,,,,1,400000,60.0,666667,,,3,133333.33,20.00,,"Carol Paiffer, Joel Jota, João Appolinário"
+8,FamíliadeRua,1,407,3-Oct-2023,12-Dec-2023,3-Oct-2023,Food and Beverage,hot sauces and condiments social impact stories of a street-dwelling family,,,,,,1,200000,20.0,1000000,,,2,100000.00,10.00,,"Luiza Trajano, Camila Farani"
+8,Cenoradas,1,408,3-Oct-2023,12-Dec-2023,3-Oct-2023,Food and Beverage,bakery startup specializing in carrot cakes,,,,,,0,,,,,,,,,,
+8,Dr.MepTelemedicinaVeterinária,2,409,3-Oct-2023,12-Dec-2023,10-Oct-2023,Health/Wellness,Tech solution for remote veterinary consultations,,,,,,1,150000,10.0,1500000,,,1,150000.00,10.00,,Rodrigo Macedo
+8,TotalBeachTennis,2,410,3-Oct-2023,12-Dec-2023,10-Oct-2023,Fitness/Sports/Outdoors,3D sand printing and nanotechnology to improve beach tennis,,,,,,1,200000,15.0,1333333,,,1,200000.00,15.00,,João Appolinário
+8,CatMake,2,411,3-Oct-2023,12-Dec-2023,10-Oct-2023,Beauty/Fashion,accessible beauty solutions,,,,,,1,150000,20.0,750000,,,1,150000.00,20.00,,Luiza Trajano
+8,XôXuca,2,412,3-Oct-2023,12-Dec-2023,10-Oct-2023,Food and Beverage,"healthy, natural, and tasty snacks",,,,,,1,100000,25.0,400000,,,1,100000.00,25.00,,Camila Farani
+8,Titibum,3,413,3-Oct-2023,12-Dec-2023,17-Oct-2023,Lifestyle/Home,"stylish, comfortable, and functional baby carriers",,,,,,1,150000,25.0,600000,,,1,150000.00,25.00,,Luiza Trajano
+8,Begin,3,414,3-Oct-2023,12-Dec-2023,17-Oct-2023,Technology/Software,"fintech/edtech platform that helps young people and their families plan, save, and invest",,,,,,1,250000,15.0,1666667,,,1,250000.00,15.00,,Rodrigo Macedo
+8,TechGirls,3,415,3-Oct-2023,12-Dec-2023,17-Oct-2023,Technology/Software,offering programming courses exclusively for women,,,,,,1,200000,20.0,1000000,,,1,200000.00,20.00,,Camila Farani
+8,EPSSul,3,416,3-Oct-2023,12-Dec-2023,17-Oct-2023,Health/Wellness,Expanded Polystyrene (EPS) products like medicines and food,,,,,,0,,,,,,,,,,
+8,Maturi,4,417,3-Oct-2023,12-Dec-2023,24-Oct-2023,Technology/Software,"digital platform and app designed for the 50+ audience, offering content",,,,,,1,150000,20.0,750000,,,1,150000.00,20.00,,Luiza Trajano
+8,Economizare,4,418,3-Oct-2023,12-Dec-2023,24-Oct-2023,Technology/Software,financial education platform that uses gamification to teach people about personal finance,,,,,,1,150000,15.0,1000000,,,1,150000.00,15.00,,Rodrigo Macedo
+8,SmartTourBrasil,4,419,3-Oct-2023,12-Dec-2023,24-Oct-2023,Technology/Software,managing and selling tours and touristic activities for destinations and operators,,,,,,0,,,,,,,,,,
+8,EspaçoNotMeat,4,420,3-Oct-2023,12-Dec-2023,24-Oct-2023,Food and Beverage,"plant-based butcher shop and deli, offering a wide variety of vegan ""meats""",,,,,,1,200000,25.0,800000,,,1,200000.00,25.00,,Camila Farani
+8,Fabenne,5,421,3-Oct-2023,12-Dec-2023,31-Oct-2023,Beauty/Fashion,"high-performance, vegan, and cruelty-free dermocosmetic skincare products",,,,,,1,200000,15.0,1333333,,,1,200000.00,15.00,,Luiza Trajano
+8,NoarCloud,5,422,3-Oct-2023,12-Dec-2023,31-Oct-2023,Technology/Software,offering a cloud-based management platform (ERP),,,,,,0,,,,,,,,,,
+8,Bunker,5,423,3-Oct-2023,12-Dec-2023,31-Oct-2023,Technology/Software,digital platform for storing and organizing important personal and family documents,,,,,,0,,,,,,,,,,
+8,Ride2Play,5,424,3-Oct-2023,12-Dec-2023,31-Oct-2023,Technology/Software,connects independent drivers with families for safe and reliable school transportation,,,,,,1,500000,15.0,3333333,,,2,250000.00,7.50,,"João Appolinário, Ronaldo Nazário"
+8,Bensá,6,425,3-Oct-2023,12-Dec-2023,7-Nov-2023,Food and Beverage,"producing healthy, plant-based sandwich spreads",,,,,,1,150000,15.0,1000000,,,1,150000.00,15.00,,Camila Farani
+8,LaJoelheria,6,426,3-Oct-2023,12-Dec-2023,7-Nov-2023,Lifestyle/Home,"jewelry brand with a strong social impact, employing and training women",,,,,,1,100000,20.0,500000,,,1,100000.00,20.00,,Camila Farani
+8,TubarãoSolar,6,427,3-Oct-2023,12-Dec-2023,7-Nov-2023,Lifestyle/Home,"subscription service for solar energy, allowing customers to save on their electricity bills",,,,,,0,,,,,,,,,,
+8,Pipooh,6,428,3-Oct-2023,12-Dec-2023,7-Nov-2023,Technology/Software,potty-training device for toddlers that uses sensors and an app to track,,,,,,0,,,,,,,,,,
+8,VazaNada,7,429,3-Oct-2023,12-Dec-2023,14-Nov-2023,Health/Wellness,menstrual panty designed to be a sustainable and reliable alternative to pads,,,,,,0,,,,,,,,,,
+8,Foodz,7,430,3-Oct-2023,12-Dec-2023,14-Nov-2023,Food and Beverage,social network and discovery app focused exclusively on food,,,,,,0,,,,,,,,,,
+8,SDWForAll,7,431,3-Oct-2023,12-Dec-2023,14-Nov-2023,Technology/Software,providing a Satellite-Derived Bathymetry (SDB) system,,,,,,0,,,,,,,,,,
+8,HigherBridgeMethodology,7,432,3-Oct-2023,12-Dec-2023,14-Nov-2023,Technology/Software,online platform offering a methodology and tools to help companies measure and improve employee engagement,,,,,,0,,,,,,,,,,
+8,CarteiroAmigo,8,433,3-Oct-2023,12-Dec-2023,21-Nov-2023,Technology/Software,logistics service focused on same-day delivery for e-commerce,,,,,,1,200000,10.0,2000000,,,1,200000.00,10.00,,João Appolinário
+8,Plenapausa,8,434,3-Oct-2023,12-Dec-2023,21-Nov-2023,Health/Wellness,"platform focused on the menopause journey, offering educational content",,,,,,0,,,,,,,,,,
+8,LisoPerfeito,8,435,3-Oct-2023,12-Dec-2023,21-Nov-2023,Beauty/Fashion,"haircare products, specifically a popular and viral ""finishing cream""",,,,,,1,150000,10.0,1500000,,,1,150000.00,10.00,,Luiza Trajano
+8,CasadasLatas,8,436,3-Oct-2023,12-Dec-2023,21-Nov-2023,Liquor/Alcohol,craft brewery that exclusively uses canned beer,,,,,,0,,,,,,,,,,
+8,HumanRobotics,9,437,3-Oct-2023,12-Dec-2023,28-Nov-2023,Technology/Software,robotic exoskeleton for physical rehabilitation and mobility assistance,,,,,,1,500000,10.0,5000000,,,1,500000.00,10.00,,Ronaldo Nazário
+8,SoultaBeauty,9,438,3-Oct-2023,12-Dec-2023,28-Nov-2023,Beauty/Fashion,vegan and cruelty-free cosmetic brand,,,,,,0,,,,,,,,,,
+8,PainterRobot,9,439,3-Oct-2023,12-Dec-2023,28-Nov-2023,Technology/Software,robot capable of painting walls and large surfaces,,,,,,1,300000,20.0,1500000,,,1,300000.00,20.00,,Ronaldo Nazário
+8,Facilitoy,9,440,3-Oct-2023,12-Dec-2023,28-Nov-2023,Technology/Software,digital platform that connects parents with vendors for children's party planning,,,,,,0,,,,,,,,,,
+8,PraViagem,10,441,3-Oct-2023,12-Dec-2023,5-Dec-2023,Technology/Software,travel tech platform that consolidates all of a user's travel documents,,,,,,0,,,,,,,,,,
+8,Amitis,10,442,3-Oct-2023,12-Dec-2023,5-Dec-2023,Beauty/Fashion,underwear and loungewear for women,,,,,,1,150000,15.0,1000000,,,1,150000.00,15.00,,Luiza Trajano
+8,Handdry,10,443,3-Oct-2023,12-Dec-2023,5-Dec-2023,Lifestyle/Home,"eco-friendly hand dryer that also functions as a tap, saving water and paper towels",,,,,,1,200000,15.0,1333333,,,1,200000.00,15.00,,João Appolinário
+8,LuckieTech,10,444,3-Oct-2023,12-Dec-2023,5-Dec-2023,Pet Products,"litter box for cats that automatically separates solid waste, controls odor",,,,,,1,250000,15.0,1666667,,,1,250000.00,15.00,,Rodrigo Macedo
+9,Dot,1,445,16-Sep-2024,21-Nov-2024,16-Sep-2024,Technology/Software,greeting cards with QR code,,,,,,1,300000,15.0,2000000,,,2,150000.00,7.50,,"Luiza Trajano, João Appolinário"
+9,RageRoom,1,446,16-Sep-2024,21-Nov-2024,16-Sep-2024,Health/Wellness,relieve stress by breaking objects in a safe space,,,500000,20,,1,200000,20.0,1000000,,,1,200000.00,20.00,,Rodrigo Macedo
+9,ParadiseVerticalPark,2,447,16-Sep-2024,21-Nov-2024,19-Sep-2024,Fitness/Sports/Outdoors,indoor vertical park,,Rodrigo Macedo Bauzca & Juarez Ferreira,15000000,50,,1,150000,25.0,600000,,,1,150000.00,25.00,,Camila Farani
+9,R5WF,2,448,16-Sep-2024,21-Nov-2024,19-Sep-2024,Beauty/Fashion,"R5 Water Filter, fitness tech",,,,,,1,150000,25.0,600000,,,1,150000.00,25.00,,Camila Farani
+9,FreboPet,3,449,16-Sep-2024,21-Nov-2024,23-Sep-2024,Pet Products,Pet Products,,,,,,1,150000,20.0,750000,,,1,150000.00,20.00,,Luiza Trajano
+9,PubliNaBag,3,450,16-Sep-2024,21-Nov-2024,23-Sep-2024,Business Services,advertising platform that places ads on paper bags used by bakeries,,,,,,1,200000,15.0,1333333,,,1,200000.00,15.00,,João Appolinário
+9,CleanXSolar,3,451,16-Sep-2024,21-Nov-2024,23-Sep-2024,Business Services,"autonomous, water-free robot for cleaning solar panels",,,,,,1,500000,10.0,5000000,,,1,500000.00,10.00,,Ronaldo Nazário
+9,Chavi,4,452,16-Sep-2024,21-Nov-2024,26-Sep-2024,Business Services,premium cachaça,,,,,,1,200000,15.0,1333333,,,1,200000.00,15.00,,Rodrigo Macedo
+9,Confra,4,453,16-Sep-2024,21-Nov-2024,26-Sep-2024,Lifestyle/Home,"social clubs organize and manage shared expenses for trips, parties",,Lucas Palma,,,,1,250000,15.0,1666667,,,1,250000.00,15.00,,Rodrigo Macedo
+9,Hackone,5,454,16-Sep-2024,21-Nov-2024,30-Sep-2024,Technology/Software,"train professionals in areas of technology, global community of ethical hackers",,,,,,1,500000,10.0,5000000,,,1,500000.00,10.00,,Ronaldo Nazário
+9,InstitutoAB,5,455,16-Sep-2024,21-Nov-2024,30-Sep-2024,Health/Wellness,"provides high-quality, low-cost technical training",,,,,,1,200000,15.0,1333333,,,1,200000.00,15.00,,Camila Farani
+9,ProjetoTatuísta,5,456,16-Sep-2024,21-Nov-2024,30-Sep-2024,Business Services,social project that trains and empowers tattoo artists,,,,,,1,200000,20.0,1000000,,,1,200000.00,20.00,,Luiza Trajano
+9,RoomysSorvetes,6,457,16-Sep-2024,21-Nov-2024,3-Oct-2024,Food and Beverage,Dairy-free ice creams craft ice cream with unique and sophisticated flavors,,,,,,1,150000,20.0,750000,,,1,150000.00,20.00,,Luiza Trajano
+9,Holy,6,458,16-Sep-2024,21-Nov-2024,3-Oct-2024,Health/Wellness,"cannabis medicinal and other phytotherapeutic products, offers telemedicine services",,,,,,1,200000,20.0,1000000,,,1,200000.00,20.00,,Camila Farani
+9,SambaFitness,7,459,16-Sep-2024,21-Nov-2024,7-Oct-2024,Beauty/Fashion,fitness tech traditional Brazilian samba dance,,,,,,1,150000,20.0,750000,,,1,150000.00,20.00,,Rodrigo Macedo
+9,iHUNGRY,7,460,16-Sep-2024,21-Nov-2024,7-Oct-2024,Food and Beverage,"food delivery, modernizing restaurant processes with products",,,,,,1,300000,15.0,2000000,,,1,300000.00,15.00,,João Appolinário
+9,CaféQuilombo,7,461,16-Sep-2024,21-Nov-2024,7-Oct-2024,Food and Beverage,premium coffee brand with a powerful social mission,,,,,,1,150000,30.0,500000,,,1,150000.00,30.00,,Camila Farani
+9,Bartô,8,462,16-Sep-2024,21-Nov-2024,10-Oct-2024,Food and Beverage,ready-to-drink cocktails made with natural ingredients,,,,,,1,200000,20.0,1000000,,,1,200000.00,20.00,,Luiza Trajano
+9,BioOnco,8,463,16-Sep-2024,21-Nov-2024,10-Oct-2024,Technology/Software,biotechnology company developing innovative molecular diagnostic tests for personalized cancer treatment,,,,,,1,1500000,10.0,15000000,,,1,1500000.00,10.00,,Ronaldo Nazário
+9,CalmaSãoPaulo,9,464,16-Sep-2024,21-Nov-2024,14-Oct-2024,Health/Wellness,"Mental wellness, to help companies improve employee well-being",,,,,,1,300000,15.0,2000000,,,1,300000.00,15.00,,Rodrigo Macedo
+9,PremierBebê,9,465,16-Sep-2024,21-Nov-2024,14-Oct-2024,Children/Education,baby products subscription box service for new parents,,,,,,1,150000,20.0,750000,,,1,150000.00,20.00,,Luiza Trajano
+9,SmartMake,9,466,16-Sep-2024,21-Nov-2024,14-Oct-2024,Beauty/Fashion,"virtual makeup, smart mirror and app for trying on makeup virtually using augmented reality",,,,,,1,200000,20.0,1000000,,,1,200000.00,20.00,,Camila Farani
+9,ISGAME,10,467,16-Sep-2024,21-Nov-2024,17-Oct-2024,Technology/Software,edtech company that uses video games as a tool to teach,,,,,,1,250000,15.0,1666667,,,1,250000.00,15.00,,Rodrigo Macedo
+9,CarvãoBrazah,10,468,16-Sep-2024,21-Nov-2024,17-Oct-2024,Food and Beverage,"high-quality, natural charcoal and firewood for grilling",,,,,,1,150000,20.0,750000,,,1,150000.00,20.00,,João Appolinário
+9,RosadoDeserto,11,469,16-Sep-2024,21-Nov-2024,21-Oct-2024,Food and Beverage,"gourmet seasonings, salts, and condiments",,,,,,1,100000,25.0,400000,,,1,100000.00,25.00,,Camila Farani
+9,PittacoConsultoria,11,470,16-Sep-2024,21-Nov-2024,21-Oct-2024,Business Services,strategic business consulting services,,,,,,1,200000,15.0,1333333,,,1,200000.00,15.00,,Rodrigo Macedo
+9,PortableStyle,11,471,16-Sep-2024,21-Nov-2024,21-Oct-2024,Fitness/Sports/Outdoors,e-commerce focused on outdoor living and lifestyle products,,,,,,1,300000,20.0,1500000,,,1,300000.00,20.00,,Luiza Trajano
+9,MinidiniSoluções,12,472,16-Sep-2024,21-Nov-2024,24-Oct-2024,Children/Education,"products and/or services geared toward child development, education, or play",,,,,,1,300000,15.0,2000000,,,1,300000.00,15.00,,Ronaldo Nazário
+9,Gamezônia,12,473,16-Sep-2024,21-Nov-2024,24-Oct-2024,Lifestyle/Home,video game narrating the history of the Amazon,,,,,,1,400000,15.0,2666667,,,1,400000.00,15.00,,João Appolinário
+9,ViolinoDidático,13,474,16-Sep-2024,21-Nov-2024,28-Oct-2024,Beauty/Fashion,methodology to teach violin in an accessible way,,,,,,1,150000,25.0,600000,,,1,150000.00,25.00,,Camila Farani
+9,TupiOcas,13,475,16-Sep-2024,21-Nov-2024,28-Oct-2024,Food and Beverage,tapiocas (a traditional Brazilian food) enriched with superfoods,,,,,,1,150000,30.0,500000,,,1,150000.00,30.00,,Camila Farani
+9,OyyáNaturalFood,13,476,16-Sep-2024,21-Nov-2024,28-Oct-2024,Food and Beverage,sustainable cacao drinks aiming to protect the Brazilian forest,,,,,,0,,,,,,,,,,
+9,Investeendo,14,477,16-Sep-2024,21-Nov-2024,31-Oct-2024,Children/Education,"financial education social network, aimed at connecting people",,,,,,0,,,,,,,,,,
+9,CantoBaobá,14,478,16-Sep-2024,21-Nov-2024,31-Oct-2024,Children/Education,promoting learning solutions,,,,,,1,200000,20.0,1000000,,,1,200000.00,20.00,,Camila Farani
+9,Ororo,15,479,16-Sep-2024,21-Nov-2024,4-Nov-2024,Beauty/Fashion,"premium, vegan, and cruelty-free skincare products",,,,,,1,150000,20.0,750000,,,1,150000.00,20.00,,Luiza Trajano
+9,SoulPrime,15,480,16-Sep-2024,21-Nov-2024,4-Nov-2024,Health/Wellness,health tech company offering a subscription-based Longevity Club,,,,,,1,500000,10.0,5000000,,,1,500000.00,10.00,,Rodrigo Macedo
+9,ProAthletic,16,481,16-Sep-2024,21-Nov-2024,7-Nov-2024,Fitness/Sports/Outdoors,"high-performance, stylish athletic wear, focusing on quality fabrics and designs",,,,,,1,200000,20.0,1000000,,,1,200000.00,20.00,,Luiza Trajano
+9,Yapuana,16,482,16-Sep-2024,21-Nov-2024,7-Nov-2024,Health/Wellness,"aromatherapy device designed to transform ambient spaces, blending wellness with technology",,"João, Bruna, and Theo",,,,1,150000,25.0,600000,,,1,150000.00,25.00,,Camila Farani
+9,DenovoShoes,17,483,16-Sep-2024,21-Nov-2024,11-Nov-2024,Beauty/Fashion,"footwear brand that collects old sneakers, grinds them down",,,,,,1,300000,15.0,2000000,,,1,300000.00,15.00,,João Appolinário
+9,FitTruck,17,484,16-Sep-2024,21-Nov-2024,11-Nov-2024,Beauty/Fashion,"cosmetic products with a focus on innovation, fully equipped fitness studio",,,,,,1,200000,20.0,1000000,,,1,200000.00,20.00,,Rodrigo Macedo
+9,RecycleNoApp,17,485,16-Sep-2024,21-Nov-2024,11-Nov-2024,Technology/Software,app and platform that connects waste generators,,,,,,1,200000,25.0,800000,,,1,200000.00,25.00,,Camila Farani
+9,Joy'sCosméticos,18,486,16-Sep-2024,21-Nov-2024,14-Nov-2024,Beauty/Fashion,"cosmetics, likely with a specific niche or differentiator",,,,,,0,,,,,,,,,,
+9,Bíon,18,487,16-Sep-2024,21-Nov-2024,14-Nov-2024,Technology/Software,biotech innovations creating 100% biodegradable and compostable packaging materials ,,,,,,1,500000,15.0,3333333,,,1,500000.00,15.00,,Ronaldo Nazário
+9,QuebradaBurger,19,488,16-Sep-2024,21-Nov-2024,18-Nov-2024,Food and Beverage,gourmet burger business aimed at redefining fast-food experiences,,,,,,1,200000,25.0,800000,,,1,200000.00,25.00,,Luiza Trajano
+9,HyperviewHologramas,19,489,16-Sep-2024,21-Nov-2024,18-Nov-2024,Business Services,hologram technology for events and advertising,,,,,,1,400000,20.0,2000000,,,1,400000.00,20.00,,Ronaldo Nazário
+9,Br.ino,19,490,16-Sep-2024,21-Nov-2024,18-Nov-2024,Beauty/Fashion,innovative fashion accessories integrating technology and design,,,,,,1,250000,15.0,1666667,,,1,250000.00,15.00,,Rodrigo Macedo
+9,Doctor'Home,20,491,16-Sep-2024,21-Nov-2024,21-Nov-2024,Health/Wellness,platform for scheduling home-visit doctors and medical services,,,,,,1,300000,15.0,2000000,,,1,300000.00,15.00,,João Appolinário
+9,CeasaDigital,20,492,16-Sep-2024,21-Nov-2024,21-Nov-2024,Business Services,"B2B digital marketplace aiming to connect farmers, wholesalers",,,,,,0,,,,,,,,,,
+10,Afropé,1,493,22-Sep-2025,10-Nov-2025,22-Sep-2025,Beauty/Fashion,innovating traditional products,,,,,,0,,,,,,,,,,
+10,SeuClienteOculto,1,494,22-Sep-2025,10-Nov-2025,22-Sep-2025,Beauty/Fashion,Mystery Shopping,,,,,,0,,,,,,,,,,
+10,LibreSkatePark,1,495,22-Sep-2025,10-Nov-2025,22-Sep-2025,Fitness/Sports/Outdoors,skateboarding infrastructure,,,,,,0,,,,,,,,,,
+10,Mombak,2,496,22-Sep-2025,10-Nov-2025,25-Sep-2025,Technology/Software,tech company focused on restoring native forests,,,,,,1,1000000,1.5,66666667,,,1,1000000.00,1.50,,Rodrigo Macedo
+10,MovêuMóveis,2,497,22-Sep-2025,10-Nov-2025,25-Sep-2025,Lifestyle/Home,furniture business,,,,,,0,,,,,,,,,,
+10,GermanosPalhasItalianas,3,498,22-Sep-2025,10-Nov-2025,29-Sep-2025,Food and Beverage,artisanal Italian straws and gourmet pasta products,,,,,,0,,,,,,,,,,
+10,LevaMotors,3,499,22-Sep-2025,10-Nov-2025,29-Sep-2025,Automotive/Vehicles,automotive / mobility business,,,,,,1,500000,10.0,5000000,,,1,500000.00,10.00,,Ronaldo Nazário
+10,Peçanha'sRunners,3,500,22-Sep-2025,10-Nov-2025,29-Sep-2025,Fitness/Sports/Outdoors,sports/running gear,,,,,,0,,,,,,,,,,
+10,OncoAI,4,501,22-Sep-2025,10-Nov-2025,2-Oct-2025,Health/Wellness,artificial intelligence startup in the oncology,,,,,,1,500000,10.0,5000000,,,1,500000.00,10.00,,Rodrigo Macedo
+10,Infusiva,4,502,22-Sep-2025,10-Nov-2025,2-Oct-2025,Health/Wellness,"medical device startup that created a smart, automated IV pole for hospitals",,,,,,1,300000,15.0,2000000,,,1,300000.00,15.00,,Ronaldo Nazário
+10,MiPetit,5,503,22-Sep-2025,10-Nov-2025,6-Oct-2025,Pet Products,"natural, healthy, and gourmet food and treats for pets",,,,,,0,,,,,,,,,,
+10,Yoface,5,504,22-Sep-2025,10-Nov-2025,6-Oct-2025,Food and Beverage,plant-based yogurt alternatives,,,,,,0,,,,,,,,,,
+10,Finestone,5,505,22-Sep-2025,10-Nov-2025,6-Oct-2025,Technology/Software,digital platform for managing construction projects and finances,,,,,,1,200000,10.0,2000000,,,1,200000.00,10.00,,João Appolinário
+10,TheFutureSchool,6,506,22-Sep-2025,10-Nov-2025,9-Oct-2025,Children/Education,education/ed-tech startup,,,,,,1,250000,15.0,1666667,,,1,250000.00,15.00,,Rodrigo Macedo
+10,Ruska,6,507,22-Sep-2025,10-Nov-2025,9-Oct-2025,Food and Beverage,flavored cachaças (Brazilian sugarcane spirit),,,,,,0,,,,,,,,,,
+10,Newpen,7,508,22-Sep-2025,10-Nov-2025,13-Oct-2025,Lifestyle/Home,"high-quality, ergonomic, and sustainable pens",,,,,,1,150000,25.0,600000,,,1,150000.00,25.00,,Luiza Trajano
+10,FeijoadaNuuBalde,7,509,22-Sep-2025,10-Nov-2025,13-Oct-2025,Food and Beverage,convenient way to sell the traditional Brazilian feijoada stew,,,,,,1,150000,25.0,600000,,,1,150000.00,25.00,,Camila Farani
+10,Realixo,7,510,22-Sep-2025,10-Nov-2025,13-Oct-2025,Technology/Software,real estate tech platform that uses data and technology to help people find the ideal neighborhood and property,,,,,,1,200000,10.0,2000000,,,1,200000.00,10.00,,João Appolinário
+10,MeuLabirinto,8,511,22-Sep-2025,10-Nov-2025,16-Oct-2025,Health/Wellness,"rehabilitation for labyrinthitis, tinnitus, and balance disorders",,,,,,0,,,,,,,,,,
+10,VimmActivewear,8,512,22-Sep-2025,10-Nov-2025,16-Oct-2025,Fitness/Sports/Outdoors,activewear/fashion sports,,,,,,1,200000,20.0,1000000,,,1,200000.00,20.00,,Luiza Trajano
+10,LojadoAvô,9,513,22-Sep-2025,10-Nov-2025,20-Oct-2025,Technology/Software,"online store selling classic, nostalgic toys and games",,,,,,0,,,,,,,,,,
+10,Malhacão,9,514,22-Sep-2025,10-Nov-2025,20-Oct-2025,Fitness/Sports/Outdoors,fitness equipment and accessories for home gyms,,,,,,0,,,,,,,,,,
+10,BRASolution,9,515,22-Sep-2025,10-Nov-2025,20-Oct-2025,Business Services,specific industrial solution or product,,,,,,0,,,,,,,,,,
+10,Hoomy,10,516,22-Sep-2025,10-Nov-2025,23-Oct-2025,Lifestyle/Home,"Bed, Bath, and Tableware items",,,,,,0,,,,,,,,,,
+10,PretaPorter,10,517,22-Sep-2025,10-Nov-2025,23-Oct-2025,Liquor/Alcohol,"beer brand with a strong identity, producing a ""Black IPA""",,,,,,1,150000,20.0,750000,,,1,150000.00,20.00,,Camila Farani
+10,Box24x7,11,518,22-Sep-2025,10-Nov-2025,27-Oct-2025,Lifestyle/Home,micro-locations focused on promoting conscious consumption,,,,,,1,300000,10.0,3000000,,,1,300000.00,10.00,,João Appolinário
+10,FreshFemme,11,519,22-Sep-2025,10-Nov-2025,27-Oct-2025,Health/Wellness,intimate wipes and hygiene products specifically designed for women,,,,,,1,150000,25.0,600000,,,1,150000.00,25.00,,Luiza Trajano
+10,JhowBatata,11,520,22-Sep-2025,10-Nov-2025,27-Oct-2025,Food and Beverage,potato-based product,,,,,,0,,,,,,,,,,
